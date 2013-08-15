@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HALO)))</string>
+    <string name="tap_to_launch">Bấm để khởi động ứng dụng</string>
+    <string name="start">Bắt đầu</string>
+    <string name="stop">Đóng lại</string>
+    <string name="add">Pin</string>
+    <string name="choose_app">Pin application</string>
+    <string name="icon_picker_type">Chọn kiểu biểu tượng:</string>
+    <string name="icon_default">Mặc định</string>
+    <string name="icon_custom">Tùy chọn</string>
+    <string name="unknown">Chưa biết</string>
+
+    <string name="stop_to_remove">Please stop the service before removing any application from the list, as not doing so will result in force closes, potentially forcing you to re-flash your ROM.</string>
+
+    <string name="ext_notes">Ghi chú</string>
+    <string name="ext_note1">Ghi chú 1</string>
+    <string name="ext_note2">Ghi chú 2</string>
+    <string name="ext_note3">Ghi chú 3</string>
+    <string name="ext_note4">Ghi chú 4</string>
+    <string name="extensions">Mở rộng</string>
+
+    <string name="helper_static_2">Using HALO)))</string>
+    <string name="helper_static_3">Sử dụng HALO))) rất đơn giản. Chỉ cần chạm vào nút Pin trên thanh trạng thái của bạn. Lưu ý nút có thể được hiển thị trên đầu hoặc dưới cùng của màn hình của bạn.</string>
+    <string name="helper_static_4">Tiếp theo, chạm vào nút pin của Halo từ danh sách.</string>
+    <string name="helper_static_5">Cuối cùng, chạm vào nút Bắt đầu để hoàn tất. Nếu bạn muốn vô hiệu hóa HALO))), chạm vào nút Đóng lại.</string>
+
+    <string name="nopa_title">Cài đặt ParanoidAndroid này?</string>
+    <string name="nopa_content">Halo))) được thiết kế một cách rõ ràng để làm việc trên ROM ParanoidAndroid. Bạn có thể trải nghiệm đầy đủ các tiềm năng và các tính năng của HALO.</string>
+    <string name="nopa_ok">Được</string>
+    <string name="nopa_download">Cài đặt ParanoidAndroid</string>
+    
+    <string name="description_1">Trợ giúp 1</string>
+    <string name="description_2">Trợ giúp 2</string>
+    <string name="description_3">Trợ giúp 3</string>
+    <string name="preferenceicon_imageview">preferenceiconImageView</string>
+
+</resources>
+
